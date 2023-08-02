@@ -1,0 +1,7 @@
+[main]
+
+knob_file = "knob1.svg"
+
+nr_positions = 50
+start_pos = -135
+end_pos = 135
