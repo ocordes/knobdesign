@@ -4,7 +4,7 @@ coverage==7.2.7
 numpy==1.25.2
 packaging==23.1
 Pillow==9.2.0
-pip-tools==7.1.0
+pip-tools==7.2.0
 pybind11==2.11.1
 pyproject_hooks==1.0.0
 skia-python==87.5
