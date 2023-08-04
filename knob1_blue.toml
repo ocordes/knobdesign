@@ -1,15 +1,14 @@
 [main]
 knob_file = "knob1.svg"
 resize = [32,32]
-output = "knobs1_new.png"
+output = "knobs1_blue.png"
 
 ring = false
 
 [marker]
 points = [[61, 5], [67,5], [67,30], [61,30], [61,5]]
 ref_position = 0
-#color = "#107000"
-color = "#7FFF00"
+color = "#7F7FFF"
 nr_positions = 50
 start_pos = -135
 end_pos = 135
