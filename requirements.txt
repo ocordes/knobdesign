@@ -1,6 +1,6 @@
 build==0.10.0
 click==8.1.6
-coverage==7.2.7
+coverage==7.3.0
 numpy==1.25.2
 packaging==23.1
 Pillow==10.0.0
